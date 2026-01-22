@@ -1,1 +1,2 @@
-[![kemu3007's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemu3007)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kemu3007)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kemu3007&layout=compact)
